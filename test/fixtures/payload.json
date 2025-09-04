@@ -1,0 +1,9 @@
+﻿{
+  "submission_id": "abc123",
+  "email": "applicant@example.com",
+  "first_name": "Ada",
+  "last_name": "Lovelace",
+  "dob": "12/10/1988",
+  "ssn_last4": "1234",
+  "phone": "(509) 555-1212"
+}
